@@ -1,2 +1,2 @@
-# MERN_app
-Deploying MERN app to Heroku
+# Google Books Search app
+Using React and MongoDB
